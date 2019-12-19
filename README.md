@@ -1,4 +1,4 @@
-<h1 align="center"> CRMEB客户管理+电商管理系统</h1> 
+<!-- <h1 align="center"> CRMEB客户管理+电商管理系统</h1> 
 <p align="center">
     <a href="http://www.crmeb.com">
         <img src="https://img.shields.io/badge/OfficialWebsite-CRMEB-yellow.svg" />
@@ -150,4 +150,4 @@ CRMEB v2.5.* 遵循GPL3.0开源协议发布，并提供免费使用。
 
 版权所有Copyright © 2017-2018 by CRMEB (http://www.crmeb.com)
 
-All rights reserved。
+All rights reserved。 -->

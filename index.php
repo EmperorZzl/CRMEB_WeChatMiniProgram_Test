@@ -7,6 +7,7 @@
 // | Author: honor <rongyao_xu@163.com>
 // +----------------------------------------------------------------------
 
+
 // 检测PHP环境
 if(version_compare(PHP_VERSION,'5.5.9','<'))  die('require PHP > 5.5.9 !');
 //error_reporting(E_ALL ^ E_NOTICE);//显示除去 E_NOTICE 之外的所有错误信息
